@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" /></p>
 
 
-- 🌱 I’m currently learning computer engineering<br>
-- 📫 How to reach me **es-mohamed.elsayed2025@alexu.edu.eg**<br>
-- ⚡ Random Joke :<br>
+- 🌱 I’m currently learning computer engineering<br><br>
+- 📫 How to reach me **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
+- ⚡ Random Joke :<br><br>
   Q: How do you tell an introverted programmer from an extroverted one?<br>
   A: The extroverted programmer looks at your shoes when he talks to you
 

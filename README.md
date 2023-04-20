@@ -3,8 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mohamedraffeek&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mohamedraffeek&color=673ab7&style=for-the-badge" alt="Profile Views" /> 
   </p>
 
 <br>

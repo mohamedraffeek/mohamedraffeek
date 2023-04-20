@@ -14,6 +14,9 @@
 
 - 🌱 I’m currently learning computer engineering
 - 📫 How to reach me **es-mohamed.elsayed2025@alexu.edu.eg**
+- ⚡ Random Joke :- Q: How do you tell an introverted programmer from an extroverted one?
+<br>
+A: The extroverted programmer looks at your shoes when he talks to you
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -68,7 +71,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedraffeek&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedraffeek&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="mohamedraffeek" /></p>
 
 <br>

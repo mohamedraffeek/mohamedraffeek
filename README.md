@@ -9,11 +9,11 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" /></p>
+<p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" /></p>
 
 
 - 🌱 I’m currently learning computer engineering<br><br>
-- 📫 How to reach me **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
+- 📫 Reach me at **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
 - ⚡ Random Joke :<br><br>
   Q: How do you tell an introverted programmer from an extroverted one?<br>
   A: The extroverted programmer looks at your shoes when he talks to you

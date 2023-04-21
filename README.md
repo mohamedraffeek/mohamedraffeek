@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Raffeek</h1>
+<h1 align="center">Hi 👋, Raffeek is here</h1>
 <h3 align="center">Student at Computers and Systems Engineering Department, Alexandria 🇪🇬🌟🇪🇬.</h3>
 
 <br>
@@ -9,7 +9,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" /></p>
+<p><img align="centre" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" /></p><br>
 
 
 - 🌱 I’m currently learning computer engineering<br><br>

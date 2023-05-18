@@ -63,15 +63,15 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedraffeek&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedraffeek&show_icons=true&layout=compact"
     alt="mohamedraffeek" 
     bg_color=#808080/></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedraffeek&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedraffeek&show_icons=true&locale=en&repo=convoychat"
     alt="mohamedraffeek" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraffeek&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamedraffeek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraffeek&date_format=M%20j%5B%2C%20Y%5D" alt="mohamedraffeek" /></p>

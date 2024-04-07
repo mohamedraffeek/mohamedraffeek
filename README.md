@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Student at Computers and Systems Engineering Department, Alexandria 🇪🇬🌟🇪🇬.</h3>
+<h3 align="center">I am a student at Computers and Systems Engineering Department, Alexandria University.</h3>
 
 <br>
 
@@ -12,9 +12,9 @@
 <p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" /></p>
 
 
-- 🌱 I’m currently looking for a software internship<br><br>
+- 🌱 Looking for a software internship<br><br>
 - 📫 Reach me at **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
-- ⚡ Check my resume [here](https://drive.google.com/file/d/116bIwCUHcncdRWvUAMl9KyRA624FOfNV/view?usp=sharing)<br><br>
+- ⚡ Check my resume [here](https://drive.google.com/file/d/1Wg_gKYMYc73JAa4QwxdhvjEfCCVnBtlq/view?usp=drive_link)<br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

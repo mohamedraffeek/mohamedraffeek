@@ -12,9 +12,9 @@
 <p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" /></p>
 
 
-- 🌱 Looking for a software internship<br><br>
-- 📫 Reach me at **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
-- ⚡ Check my resume [here](https://drive.google.com/file/d/1Wg_gKYMYc73JAa4QwxdhvjEfCCVnBtlq/view?usp=drive_link)<br><br>
+- 🔎 Actively seeking a software engineering internship opportunity.<br><br>
+- 📧 Reach out to me at **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
+- 📄 View my resume [here](https://drive.google.com/file/d/1Wg_gKYMYc73JAa4QwxdhvjEfCCVnBtlq/view?usp=drive_link)<br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -30,9 +30,6 @@
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/mohamedraffeek21" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/MohamedRaffeek1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 

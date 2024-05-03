@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am a student at Computers and Systems Engineering Department, Alexandria University.</h3>
+<h3 align="center">I am a student at the Computers and Systems Engineering Department, Alexandria University.</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 🔎 Actively seeking a software engineering internship opportunity.<br><br>
 - 📧 Reach out to me at **es-mohamed.elsayed2025@alexu.edu.eg**<br><br>
-- 📄 View my resume [here](https://drive.google.com/file/d/1Wg_gKYMYc73JAa4QwxdhvjEfCCVnBtlq/view?usp=drive_link)<br><br>
+- 📄 View my resume [here](https://drive.google.com/file/d/1_UfjOIy68MN3klmNiTfaM2rbDnK75-nF/view?usp=sharing)<br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
